@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Gourav
 
-<!--
-**gouravbhardwaj-dev/gouravbhardwaj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student
 
-Here are some ideas to get you started:
+💻 Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+🚀 Goals
+- Become a Full Stack Developer
+- Build Real World Projects
+- Learn React & Node.js
+- Service desk analyst
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+- GitHub
+
+## Connect With Me
+- LinkedIn
+- Instagram
+- X (Twitter)
+
+⭐ Thanks for visiting my profile!
