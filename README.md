@@ -2,7 +2,7 @@
 
 🎓 BCA Student
 
-💻 Frontend Developer
+💻 Web Developer
 
 🌱 Currently Learning
 - HTML
