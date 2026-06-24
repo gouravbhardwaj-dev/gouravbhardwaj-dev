@@ -5,8 +5,8 @@
 💻 Web Developer
 
 🌱 Currently Learning
-- HTML
-- CSS
+- Data analysis
+- AI tools
 - JavaScript
 - Python
 - Git & GitHub
