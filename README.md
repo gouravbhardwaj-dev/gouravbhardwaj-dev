@@ -6,6 +6,7 @@
 
 🌱 Currently Learning
 - Data analysis
+- IT support + microsoft 365 + intune + azure
 - AI tools
 - JavaScript
 - Python
