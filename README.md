@@ -1,6 +1,6 @@
 Hi 👋, I'm Gourav
 🎓 BCA Student (2023–2026)
-💻 Aspiring Web Developer & IT Professional
+💻 Web developer
 
 🌱 Currently Learning
 - Data Analysis
