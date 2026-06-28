@@ -26,7 +26,7 @@ Frontend
 - JavaScript
 
 Programming
-Python
+- Python
 
 Tools
 - Git
