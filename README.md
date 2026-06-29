@@ -43,6 +43,6 @@ Tools
 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gourav-bhardwaj-715113357
 - GitHub: https://github.com/gouravbhardwaj-dev
-- Portfolio: https://gouravbhardwaj404-design.github.io/html-portfolio/
+- Portfolio: https://gouravbhardwaj-dev.github.io/my-portfolio/
 
 ⭐ Thanks for visiting my profile!
