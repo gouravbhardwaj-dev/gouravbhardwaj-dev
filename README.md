@@ -16,8 +16,7 @@ Hi 👋, I'm Gourav
 🚀 Goals
 - Become a Full Stack Developer
 - Build Real-World Projects
-- Learn React.js & Node.js
-- Start a Career as a Service Desk Analyst
+- Start a Career as a Service Desk Analyst and web developer
 
 💻 Skills
 Frontend
