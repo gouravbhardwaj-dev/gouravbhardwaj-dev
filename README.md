@@ -42,7 +42,8 @@ Tools
 
 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/gourav-bhardwaj-715113357
-- GitHub: https://github.com/gouravbhardwaj-dev
 - Portfolio: https://gouravbhardwaj-dev.github.io/my-portfolio/
+- Phone no. : +91 9310687848
+- Gmail: gourabhardwaj404@gmail.com
 
 ⭐ Thanks for visiting my profile!
