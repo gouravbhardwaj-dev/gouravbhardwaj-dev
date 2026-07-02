@@ -85,7 +85,7 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/gourav-bhardwaj-715113357
 * 🌐 Portfolio: https://gouravbhardwaj-dev.github.io/my-portfolio/
-* 💻 GitHub: https://github.com/gouravbhardwaj-dev
+* 💻 Phone no.: +91 9310687848
 * 📧 Email: [gouravbhardwaj404@gmail.com](mailto:gouravbhardwaj404@gmail.com)
 
 ---
