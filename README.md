@@ -1,4 +1,4 @@
-### Hi 👋, I'm Gourav
+# Hi 👋, I'm Gourav
 🎓 BCA Student (2023–2026)
 💻 Web developer
 
