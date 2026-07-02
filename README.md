@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gourav
-##🎓 BCA Student (2023–2026)
+🎓 BCA Student (2023–2026)
 💻 Web developer
 
 🌱 Currently Learning
