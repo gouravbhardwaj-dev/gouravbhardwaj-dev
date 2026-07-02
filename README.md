@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Gourav</h1>
 <h3 align="center">Web Developer | BCA Student (2023–2026)</h3>
 
 ---
