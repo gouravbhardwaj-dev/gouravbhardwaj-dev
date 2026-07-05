@@ -70,6 +70,7 @@
 * 🌤️ Weather Application
 * 🎬 Netflix Clone
 * 💼 Personal Portfolio Website
+* 💼 New Portfolio Website (Coming Soon)
 
 ---
 
