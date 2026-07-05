@@ -5,7 +5,7 @@
 
 ## 🎓 About Me
 
-* 🎓 Pursuing **Bachelor of Computer Applications (BCA)** (2023–2026)
+* 🎓 **Bachelor of Computer Applications (BCA)** (2023–2026)
 * 💻 Passionate about **Web Development** and **Frontend Development**
 * 🌱 Currently learning **Data Analysis, IT Support, Microsoft 365, Intune, Azure, and AI Tools**
 * 🚀 Interested in building real-world projects and exploring new technologies
