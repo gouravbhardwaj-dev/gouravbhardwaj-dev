@@ -1,4 +1,4 @@
-<h1 align="center" background-color: red;>Hi 👋, I'm Gourav</h1>
+<h1 align="center">Hi 👋, I'm Gourav</h1>
 <h3 align="center">Web Developer | BCA Student (2023–2026)</h3>
 
 ---
