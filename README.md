@@ -16,11 +16,7 @@
 
 * 📊 Data Analysis
 * 🖥️ IT Support
-* ☁️ Microsoft 365
-* 🔐 Microsoft Intune
-* ☁️ Microsoft Azure
 * 🤖 AI Tools
-* ⚡ JavaScript
 * 🐍 Python
 * 🔧 Git & GitHub
 
